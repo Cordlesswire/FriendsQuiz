@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Friends Quiz</string>
+    <string name="name_hint">Name</string>
+    <string name="que9Hint">Answer</string>
+    <string name="resultButton">Result</string>
+    <string name="resetButton">Reset</string>
+    <string name="endCheckbox">Share?</string>
+    <string name="checkBox1">Only Once</string>
+    <string name="checkBox2">More than once</string>
+    <string name="checkBox3">Haven\'t watched yet</string>
+    <string name="introQue">How many times have you watched Friends?</string>
+    <string name="que1"> Phoebe says \"He\'s her ______\" to represent relationship between Ross and Rachel in the early episodes. </string>
+    <string name="que1A">Lobster</string>
+    <string name="que1B">Lover</string>
+    <string name="que1C">Special someone</string>
+    <string name="que1D">Cat</string>
+    <string name="que2">What Seasons do you find you get the hint that Rachel is pregnant?</string>
+    <string name="que2A">5</string>
+    <string name="que2B">7</string>
+    <string name="que2C">6</string>
+    <string name="que2D">None</string>
+    <string name="que3">What is the name of Phoebe\'s half brother and twin sister?</string>
+    <string name="que3A">Frank Jr. and Ursula</string>
+    <string name="que3B">Frank and Izzy</string>
+    <string name="que3C">Fred and Ursula</string>
+    <string name="que3D">Frank Jr. and Izzy</string>
+    <string name="que4">In season 3 or 4 Joey and Chandler move into Rachel and Monica\'s apartment but then move back to their old one. What persuades them to move back?</string>
+    <string name="que4A">Rachel and Monica beat them in a quiz.</string>
+    <string name="que4B">Rachel and Monica pay them their rent for 3 months.</string>
+    <string name="que4C">Rachel and Monica give Joey and Chandler a kiss for a minute each.</string>
+    <string name="que4D">Rachel and Monica kissed for a minute.</string>
+    <string name="que5">What magazine is Joey interviewed in season 8?</string>
+    <string name="que5A">Soap Opera Digest</string>
+    <string name="que5B">The Soap</string>
+    <string name="que5C">Soap Weekly</string>
+    <string name="que5D">Soap Opera America</string>
+    <string name="que6">Who does Ross take out for Valentines day in season 1?</string>
+    <string name="que6A">Kristen</string>
+    <string name="que6B">Julie</string>
+    <string name="que6C">Rachel</string>
+    <string name="que6D">Carol</string>
+    <string name="que7">What name does Joey use when he tells his story about the time he went backpacking across Western Europe?</string>
+    <string name="que7A">Regina Phalange</string>
+    <string name="que7B">Ken Adams</string>
+    <string name="que7C">Scott Smith</string>
+    <string name="que7D">Richard</string>
+    <string name="que8">After hearing a woman passed away in Ross\’ building they visit to look at the apartment seeing she isn’t gone yet. They decide to come in after hearing her memory is nearly gone. What language does she speak mostly?
+</string>
+    <string name="que8A">French</string>
+    <string name="que8B">Spanish</string>
+    <string name="que8C">German</string>
+    <string name="que8D">Dutch</string>
+    <string name="que9">In the one with Phoebe\’s B-Day Dinner Judy Geller accompanies Rachel and Ross to the restaurant with Emma. A bit later Rachel notices Emma\’s _____ fell on the floor. What fell on the floor?</string>
+    <string name="que10">Which of the two characters have kissed everyone on the show both boys and girls?</string>
+    <string name="que10A">Chandler</string>
+    <string name="que10B">Rachel</string>
+    <string name="que10C">Joey</string>
+    <string name="share">Share</string>
+    <string name="que10D">Phoebe</string>
+    <string name="description">Have you watched Friends? Are you a Friends fan? Test your knowledge on this television quiz to see how you do and compare your score to others. Enjoy.</string>
+
+</resources>
+

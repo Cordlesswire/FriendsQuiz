@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimaryDark">#D32F2F</item>
+        <item name="colorAccent">#FFEB3B</item>
+        <item name="colorButtonNormal">#FFEB3B</item>
+
+    </style>
+
+    <style name="TextTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:fontFamily">Roboto</item>
+
+    </style>
+
+    <style name="RadioButton" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">top</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="View" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_height">.5dp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:background">@android:color/background_dark</item>
+    </style>
+
+</resources>
